@@ -8,6 +8,9 @@
 -   2: another book
 -   3: book 3
 
+```{=html}
+<!-- -->
 ```
-git commit -m"update"
-```
+    git commit -m"update"
+
+![photo of book homework](images/homework.jpg)
